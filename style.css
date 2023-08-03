@@ -1,0 +1,24 @@
+body{
+    background-image:url(images/backgroud.jpg );
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+p{
+    color:azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}    
+a:link{
+   color:green;
+   background-color:transparent;
+   text-decoration: dotted; 
+}
+a:hover, a:active{
+    background-color: red;
+}
